@@ -1,0 +1,9 @@
+{
+  "name": "react-changelog-hooks",
+  "version": "1.0.0",
+  "description": "Easy include your Changelog into your project",
+  "main": "index.js",
+  "repository": "git@github.com:Gethi/react-changelog-hooks.git",
+  "author": "Gethi <bigard.antoine@gmail.com>",
+  "license": "MIT"
+}
